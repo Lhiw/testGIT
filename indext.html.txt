@@ -6,4 +6,5 @@
 <body>
 	<img src="IMG_1722.JPG"/>
 	<h2>Welcome my website</h2>
+	<b>design</b>
 </body>
